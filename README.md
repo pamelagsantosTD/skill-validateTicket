@@ -1,7 +1,6 @@
 ## `/validate-ticket` — Staging validation walkthrough
 
-A Claude Code skill that turns a Jira ticket (`TDIMQ-XXX`) into a step-by-step test walkthrough for the
-**staging** environment (https://staging.internship.wtahosting.net). It's built for manual validation,
+A Claude Code skill that turns a Jira ticket (`TDIMQ-XXX`) into a step-by-step test walkthrough. It's built for manual validation,
 so anyone on the team can follow the steps, technical or not.
 
 **What it does**
